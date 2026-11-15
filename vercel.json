@@ -32,6 +32,7 @@
     "LOG_CHANNEL": "stderr",
     "DB_CONNECTION": "pgsql",
     "DB_PORT": "5432",
-    "DB_SSLMODE": "require"
+    "DB_SSLMODE": "require",
+    "VERCEL": "1"
   }
 }
